@@ -26,7 +26,7 @@ Fill in the required information on the registration screen and press the "Regis
 User management is also available within the iOS app.<br>
 After logging in, select the "MY PAGE" tab at the bottom right, then choose "User Management" at the top to navigate to the user list screen.<br>
 <img src="./images/ios_app_mypage.PNG" width="300px"><br>
-<img src="./images/ios_app_user_management.PNG" width="300px"><br>
+<img src="./images/ios_app_user_list.PNG" width="300px"><br>
 
 This screen displays a list of all team members.<br>
 Each entry is displayed in the format: "{Admin or Member}: {Full Name}: {Email Address}."<br>

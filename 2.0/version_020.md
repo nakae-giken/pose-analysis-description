@@ -25,7 +25,7 @@ iOS アプリのトップ画面で、ボタン「Sign Up」を押下すると、
 iOS アプリ内でもユーザー管理ができる。<br>
 ログイン後、画面下部の右側にある「MY PAGE」というタブを選択すると、上部に「User Management」という項目があるので、そこを選択すると、ユーザー一覧画面に遷移する。<br>
 <img src="./images/ios_app_mypage.PNG" width="300px"><br>
-<img src="./images/ios_app_user_management.PNG" width="300px"><br>
+<img src="./images/ios_app_user_list.PNG" width="300px"><br>
 
 当該画面には、チーム内の全メンバーの一覧が表示される。<br>
 一覧表の各項目には、「{Admin or Member}:   {Full Name}:  {メールアドレス」というフォーマットで表示される。<br>
