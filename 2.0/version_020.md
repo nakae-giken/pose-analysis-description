@@ -30,6 +30,9 @@ iOS アプリ内でもユーザー管理ができる。<br>
 当該画面には、チーム内の全メンバーの一覧が表示される。<br>
 一覧表の各項目には、「{Admin or Member}:   {Full Name}:  {メールアドレス」というフォーマットで表示される。<br>
 
+一覧の中から任意のメンバーをタップすると、アラートが表示され、その中で「Delete」を選択すると、当該メンバーが削除される。<br>
+<img src="./images/ios_app_delete_user.jpeg" width="300px"><br>
+
 また、当該画面の右上にある「＋」ボタンを押下すると、新規メンバー追加画面に遷移する。<br>
 <img src="./images/ios_app_add_user.PNG" width="300px"><br>
 

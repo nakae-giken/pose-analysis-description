@@ -31,6 +31,9 @@ After logging in, select the "MY PAGE" tab at the bottom right, then choose "Use
 This screen displays a list of all team members.<br>
 Each entry is displayed in the format: "{Admin or Member}: {Full Name}: {Email Address}."<br>
 
+When you tap on any member from the list, an alert is displayed. Selecting “Delete” in the alert will remove the selected member.<br>
+<img src="./images/ios_app_delete_user.jpeg" width="300px"><br>
+
 Pressing the "+" button at the top right navigates to the "Add Member" screen.<br>
 <img src="./images/ios_app_add_user.PNG" width="300px"><br>
 
