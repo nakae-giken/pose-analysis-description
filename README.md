@@ -1,4 +1,4 @@
-# OUTLINE
+# Outline
 
 This page describe the how to use of each version of Pose Analysis.<br>
 Pose Analysis constitute of iOS app and web dashboard.<br><br>
