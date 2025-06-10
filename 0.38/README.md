@@ -107,6 +107,13 @@ raw.csv の x, y, z の値を角度に変換したものです。<br>
 
 raw.csv の OneEuroX, OneEuroY, OneEuroZ の値を角度に変換したものです。<br>
 
+### 撤去されたCSV
+
+- kalman.csv
+- lowpass.csv
+- kalman_angles.csv
+- lowpass_angles.csv
+
 ## 課金体制の変更
 
 Pose Analysis の課金体制が変更されました。<br>
