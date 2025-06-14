@@ -151,12 +151,9 @@ The new pricing is as follows:
 - 10 Measurement Ticket  
   - New Price: ¥100  
   - Previous Price: ¥1,000  
-- 50 Measurement Ticket  
-  - New Price: ¥500  
-  - Previous Price: ¥5,000  
-- 500 Measurement Ticket  
-  - New Price: ¥5,000  
-  - Previous Price: ¥50,000  
+- 100 Measurement Ticket  
+  - New Price: ¥1,000  
+  - Previous Price: ¥10,000  
 - 1000 Measurement Ticket  
   - New Price: ¥10,000  
   - Previous Price: ¥100,000  
