@@ -17,5 +17,5 @@
 ### 測定一覧画面で、任意のデータを削除できるボタンを追加
 
 Delete ボタンを押下すると、測定したデータを削除可能に<br>
-<img src="../images/delete_measurement.png" width=500px>
+<img src="../images/delete_measurement.png" width=1000px>
 
